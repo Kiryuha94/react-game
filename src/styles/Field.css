@@ -1,0 +1,22 @@
+.field {
+  padding-top: 1rem;
+  display: grid;
+  grid-gap: 0.4rem;
+  grid-template-columns: 8rem 8rem 8rem;
+  grid-template-rows: 8rem 8rem 8rem;
+  background-color: inherit;
+  justify-content: center;
+}
+
+.sell {
+  padding: 0.01px;
+  width: 8rem;
+  height: 8rem;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: grab;
+  font-size: 6rem;
+  color: rgb(187, 42, 42);
+}
