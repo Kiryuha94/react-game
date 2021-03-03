@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "checkJs": true,
-    "target": "esnext",
-    "baseUrl": "./src",
-    "module": "commonJS",
-    "jsx": "preserve"
-  }
-}
